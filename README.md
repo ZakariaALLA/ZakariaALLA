@@ -5,7 +5,7 @@
 ### Check out my portfolio: [Click Here](https://zakariaalla.me/)
 
 - 🔭 I’m currently working on my last internship (PFE)
-- 🌱 I’m currently learning about Microserviceswith Spring and Angular, Docker, Kubernetes
+- 🌱 I’m currently learning about Microservices, Docker and Kubernetes
 - 👯 Also I’m  working on My Content Cration Skills
 - 🤔  I’m looking to collaborate with a person on a a youtube video
 - 📫 How to reach me:
