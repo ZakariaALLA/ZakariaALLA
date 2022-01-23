@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋 Zakaria ALLA here
 
-<!--
-**ZakariaALLA/ZakariaALLA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm a Software Engineering student, Full stack developer and a Content Creator on YouTube. I love coding and new technologies.
 
-Here are some ideas to get you started:
+### Check out my portfolio: [Click Here](https://zakariaalla.me/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my last internship (PFE)
+- 🌱 I’m currently learning about Microserviceswith Spring and Angular, Docker, Kubernetes
+- 👯 Also I’m  working on My Content Cration Skills
+- 🤔  I’m looking to collaborate with a person on a a youtube video
+- 📫 How to reach me:
+  -  [LinkedIn](https://linkedin.com/in/zakaria-alla/)
+  -  [Portfolio](https://zakariaalla.me/)
+  -  [YouTube](https://www.youtube.com/zakariaalla)
+  -  [Instagram](https://www.instagram.com/za_zakariaalla/)
+  -  [Facebook](https://www.facebook.com/zaki.alla.9)
+- ⚡ Fun fact I prefer tea over coffee, and I am a big fun of math and physics.
+
+#### Have a good day 👋 !
+
