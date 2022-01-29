@@ -1,6 +1,6 @@
 ### Hi there 👋 Zakaria ALLA here
 
-###I'm a Software Engineering student, Full stack developer and a Content Creator on YouTube. I love coding and new technologies.
+** I'm a Software Engineering student, Full stack developer and a Content Creator on YouTube. I love coding and new technologies.
 
 ### Check out my portfolio: [Click Here](https://zakariaalla.me/)
 
