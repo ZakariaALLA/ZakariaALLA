@@ -1,13 +1,13 @@
 ### Hi there 👋 Zakaria ALLA here
 
-I'm a Software Engineering student, Full stack developer and a Content Creator on YouTube. I love coding and new technologies.
+I'm a Software Engineering, Full stack developer and a Content Creator on YouTube. I love coding and new technologies.
 
 ### Check out my portfolio: [Click Here](https://zakariaalla.me/)
 
 - 🔭 I’m currently working on my last internship (PFE)
-- 🌱 I’m currently learning about Microservices, Docker and Kubernetes
-- 👯 Also I’m  working on My Content Cration Skills
-- 🤔  I’m looking to collaborate with a person on a a youtube video
+- 🌱 I’m currently learning about Java, different modules of Spring and Microservices
+- 👯 Also I’m  working on My Content Creation Skills
+- 🤔  I’m looking to collaborate with a person on a motion graphic youtube video
 - 📫 How to reach me:
   -  [LinkedIn](https://linkedin.com/in/zakaria-alla/)
   -  [Portfolio](https://zakariaalla.me/)
