@@ -4,17 +4,17 @@ I'm a Software Engineering, Full stack developer and a Content Creator on YouTub
 
 ### Check out my portfolio: [Click Here](https://zakariaalla.me/)
 
-- 🔭 I’m currently working on my last internship (PFE)
-- 🌱 I’m currently learning about Java, different modules of Spring and Microservices
-- 👯 Also I’m  working on My Content Creation Skills
-- 🤔  I’m looking to collaborate with a person on a motion graphic youtube video
+- 🔭 I’m a software enginner.
+- 🌱 I’m currently learning about Java, different modules of Spring and Microservices architecture.
+- 👯 Also I am learning about Angular.
+- 🤔 Also I’m working on My Content Creation Skills.
 - 📫 How to reach me:
   -  [LinkedIn](https://linkedin.com/in/zakaria-alla/)
   -  [Portfolio](https://zakariaalla.me/)
   -  [YouTube](https://www.youtube.com/zakariaalla)
   -  [Instagram](https://www.instagram.com/za_zakariaalla/)
   -  [Facebook](https://www.facebook.com/zaki.alla.9)
-- ⚡ Fun fact I prefer tea over coffee, and I am a big fun of math and physics.
+- ⚡ Simply I am just someone who likes drinking JAVA, and I am a big fun of maths and physics.
 
 #### Have a good day 👋 !
 
