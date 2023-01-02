@@ -2,7 +2,7 @@
 
 I'm a Software Engineering, Full stack developer and a Content Creator on YouTube. I love coding and new technologies.
 
-### Check out my portfolio: [Click Here](https://zakariaalla.me/)
+### Check out my portfolio: [Click Here](https://zakariaalla.tech/)
 
 - 🔭 I’m a software enginner.
 - 🌱 I’m currently learning about Java, different modules of Spring and Microservices architecture.
@@ -10,7 +10,7 @@ I'm a Software Engineering, Full stack developer and a Content Creator on YouTub
 - 🤔 Also I’m working on My Content Creation Skills.
 - 📫 How to reach me:
   -  [LinkedIn](https://linkedin.com/in/zakaria-alla/)
-  -  [Portfolio](https://zakariaalla.me/)
+  -  [Portfolio](https://zakariaalla.tech/)
   -  [YouTube](https://www.youtube.com/zakariaalla)
   -  [Instagram](https://www.instagram.com/za_zakariaalla/)
   -  [Facebook](https://www.facebook.com/zaki.alla.9)
