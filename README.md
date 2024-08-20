@@ -10,7 +10,7 @@ I'm a Software Engineering, Full stack developer and a Content Creator on YouTub
 - 🤔 Also I’m working on My Content Creation Skills.
 - 📫 How to reach me:
   -  [LinkedIn](https://linkedin.com/in/zakaria-alla/)
-  -  [Portfolio](https://zakariaalla.tech/)
+  -  [Portfolio](https://zakariaalla.github.io)
   -  [YouTube](https://www.youtube.com/zakariaalla)
   -  [Instagram](https://www.instagram.com/za_zakariaalla/)
   -  [Facebook](https://www.facebook.com/zaki.alla.9)
