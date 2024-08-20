@@ -2,7 +2,7 @@
 
 I'm a Software Engineering, Full stack developer and a Content Creator on YouTube. I love coding and new technologies.
 
-### Check out my portfolio: [Click Here](https://zakariaalla.tech/)
+### Check out my portfolio: [Click Here](https://zakariaalla.github.io/)
 
 - 🔭 I’m a software enginner.
 - 🌱 I’m currently learning about Java, different modules of Spring and Microservices architecture.
